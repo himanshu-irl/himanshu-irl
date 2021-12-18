@@ -28,4 +28,8 @@
 
 <br />
 
+<details>
+  <summary><b>🥷 About Me</b></summary>
+  <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-irl)

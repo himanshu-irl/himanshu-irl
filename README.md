@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Himanshu 👨‍💻</h1>
+<h1 align="center">Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> I'm Himanshu 👨‍💻</h1>
 
 <div align="center">
 <img src="https://s10.gifyu.com/images/greetings51c35df0de6b3a51.gif" align="center" style="width: 50%" />

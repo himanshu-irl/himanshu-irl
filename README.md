@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Flutter, NFTs and MLOps  
 - ❓ Ask me about anything related to **Python**, **SQL**, **Machine Learning** and related technologies
 - 📅 [Schedule a call with me](https://calendly.com/himanshu_irl/15min)
-- ⚡ Fun fact:  I'm a [DJ/Producer](https://soundcloud.com/iamdbassic) <a><img src="https://media4.giphy.com/media/LwBTamVefKJxmYwDba/giphy.gif?cid=790b76118743d8f57edf5507acf41b633f2335caa7ec2d22&rid=giphy.gif" width="25px"></a>, indie-maker working on small side projects time-to-time, tech-enthusiast, and an avid traveller (+15 countries)!
+- ⚡ Fun fact:  I'm a [DJ/Producer](https://soundcloud.com/iamdbassic) <a><img src="https://media4.giphy.com/media/LwBTamVefKJxmYwDba/giphy.gif?cid=790b76118743d8f57edf5507acf41b633f2335caa7ec2d22&rid=giphy.gif" width="20px"></a>, indie-maker working on small side projects time-to-time, tech-enthusiast, and an avid traveller (+15 countries)!
 
 <br/>  
 

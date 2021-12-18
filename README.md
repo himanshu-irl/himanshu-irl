@@ -13,6 +13,12 @@
 
 <br/>  
 
+
+<details>
+  <summary><b>🥷 About Me</b></summary>
+  <br/>
+</details>
+
 <h2 align="center">🔗 Connect with me</h2>
 <div align="center">
 <a href="https://github.com/himanshu-irl" target="_blank">
@@ -27,9 +33,5 @@
 </div>  
 
 <br />
-
-<details>
-  <summary><b>🥷 About Me</b></summary>
-  <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-irl)

@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://s10.gifyu.com/images/greetings51c35df0de6b3a51.gif" align="center" style="width: 50%" />
 </div>  
-
+<br/>
 
 - 🔭 I’m currently working on [Covid Plasma India smart-bot](https://github.com/himanshu-irl/covidplasma_bot)
 - 🌱 I’m currently learning Flutter, NFTs and MLOps  

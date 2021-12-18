@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi there 👋 I'm Himanshu, a data science and analytics professional 👨‍💻</div>  
 
 <!--
 **himanshu-irl/himanshu-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Himanshu, a data science and analytics professional 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Covid Plasma India smart-bot](https://github.com/himanshu-irl/covidplasma_bot)  

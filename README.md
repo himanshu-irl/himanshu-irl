@@ -8,7 +8,8 @@
 - 🔭 I’m currently working on [Covid Plasma India smart-bot](https://github.com/himanshu-irl/covidplasma_bot)
 - 🌱 I’m currently learning Flutter, NFTs and MLOps  
 - ❓ Ask me about anything related to Python, SQL, Machine Learning and related technologies  
-- ⚡ Fun fact: [UPDATE THIS]  
+- ⚡ Fun fact: [UPDATE THIS]
+
 <br/>  
 
 <h2 align="center">🔗 Connect with me</h2>

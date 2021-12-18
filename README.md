@@ -1,5 +1,4 @@
-### <div align="center">Hi there 👋 I'm Himanshu, a data science and analytics professional 👨‍💻</div>  
-
+<h1 align="center">Hi there 👋 I'm Himanshu 👨‍💻</h1>
 <!--
 **himanshu-irl/himanshu-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

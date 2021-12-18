@@ -1,27 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Himanshu 👨‍💻</h1>
-<!--
-**himanshu-irl/himanshu-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">I'm Himanshu, a data science and analytics professional 👨‍💻</div>  
 
 <div align="center">
 <img src="https://s10.gifyu.com/images/greetings51c35df0de6b3a51.gif" align="center" style="width: 50%" />
 </div>  
-  
-
-  
 
 - 🔭 I’m currently working on [Covid Plasma India smart-bot](https://github.com/himanshu-irl/covidplasma_bot)  
   
